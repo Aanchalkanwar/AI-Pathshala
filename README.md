@@ -298,7 +298,7 @@ python -m aitutor voice-ask --class 10 --subject Science --audio-path student_qu
 
 ## 👥 Contributors & Acknowledgements
 
-- **Author**: Anjali Singh & Aanchal Kanwar
+- **Author**: Anjali Singh, Anjali Raj & Aanchal Kanwar
 - **Curriculum Source**: [NCERT (National Council of Educational Research and Training)](https://ncert.nic.in/)
 - **Exam Patterns & Rubrics**: [CBSE (Central Board of Secondary Education)](https://cbse.gov.in/)
 - **Core Models**: Google Gemini 2.5 Flash & Gemini Embedding 2 via `google-genai` SDK
